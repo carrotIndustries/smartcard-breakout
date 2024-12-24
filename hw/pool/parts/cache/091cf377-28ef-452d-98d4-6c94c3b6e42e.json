@@ -1,0 +1,76 @@
+{
+    "MPN": [
+        false,
+        "7334L2622F01LF"
+    ],
+    "datasheet": [
+        false,
+        "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/vjw54701.pdf"
+    ],
+    "description": [
+        false,
+        "Smart Card Reader, Input Output Connectors, Connectors for Friendly Environment, 8 contacts, Low Profile, Lead Free."
+    ],
+    "entity": "5cd2dbae-c32b-44ab-9dbc-8d6647ce1080",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Amphenol"
+    ],
+    "model": "8ecf2c4a-34e5-4a72-be3b-04e98fc43d0b",
+    "package": "6a64132b-cb9f-4235-88fe-2c3dd2aed4d0",
+    "pad_map": {
+        "0001fae7-65f1-4cec-95d7-3752d2fb0e32": {
+            "gate": "bafd0850-a8ba-466c-83be-c2ccb1a22930",
+            "pin": "ec047fc7-2877-4bcf-bcd0-1d7130f74e67"
+        },
+        "18aeba4f-563f-4a8c-af20-31d5891d6163": {
+            "gate": "bafd0850-a8ba-466c-83be-c2ccb1a22930",
+            "pin": "b1feace7-eb3d-4b7e-8d4e-5c689a7d05ce"
+        },
+        "253410ed-802b-4994-a9fe-476adda9ad4c": {
+            "gate": "bafd0850-a8ba-466c-83be-c2ccb1a22930",
+            "pin": "6d7f0eeb-8a5f-4bb0-8794-bca0c50c2e7d"
+        },
+        "26f13b01-0f83-42e5-b517-bb1af08054aa": {
+            "gate": "bafd0850-a8ba-466c-83be-c2ccb1a22930",
+            "pin": "4208db67-1f45-4a2c-ae53-01b467544d87"
+        },
+        "2c125620-87f4-4893-9262-f58b366fbfcc": {
+            "gate": "bafd0850-a8ba-466c-83be-c2ccb1a22930",
+            "pin": "f12927da-588e-414f-aebf-865d5425f2fd"
+        },
+        "3cae6118-5e61-4a27-9abf-0b8d2702e542": {
+            "gate": "bafd0850-a8ba-466c-83be-c2ccb1a22930",
+            "pin": "14678aad-0d62-42ae-a210-1a9e7cd587d3"
+        },
+        "64f0e7df-59eb-4fb5-9132-6d670c5cb0e8": {
+            "gate": "bafd0850-a8ba-466c-83be-c2ccb1a22930",
+            "pin": "b855ce6f-a1bd-4db6-9e34-c07b415f06c8"
+        },
+        "66b0d292-48c1-4719-ac19-eb1d4c6f5917": {
+            "gate": "bafd0850-a8ba-466c-83be-c2ccb1a22930",
+            "pin": "c169f425-08a3-4b71-952d-0db7abc543e9"
+        },
+        "68c1123d-0c1e-4c65-82ae-1a59afeccb78": {
+            "gate": "bafd0850-a8ba-466c-83be-c2ccb1a22930",
+            "pin": "d33ec747-9b53-4bfb-97f0-804a1fb56d73"
+        },
+        "d09b7f0c-2527-46d7-bda7-eb7db9d1b529": {
+            "gate": "bafd0850-a8ba-466c-83be-c2ccb1a22930",
+            "pin": "c88a72e2-17ce-48e6-b6a8-c283b19c0587"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "smartcard"
+    ],
+    "type": "part",
+    "uuid": "091cf377-28ef-452d-98d4-6c94c3b6e42e",
+    "value": [
+        false,
+        ""
+    ]
+}

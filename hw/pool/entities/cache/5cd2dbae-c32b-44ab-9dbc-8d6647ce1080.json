@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "bafd0850-a8ba-466c-83be-c2ccb1a22930": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "bbb11818-77c1-4ec3-9dc3-265f87151783"
+        }
+    },
+    "manufacturer": "Amphenol",
+    "name": "7334L2622F01LF",
+    "prefix": "J",
+    "tags": [],
+    "type": "entity",
+    "uuid": "5cd2dbae-c32b-44ab-9dbc-8d6647ce1080"
+}

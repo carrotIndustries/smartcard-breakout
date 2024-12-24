@@ -1,0 +1,68 @@
+{
+    "manufacturer": "Amphenol",
+    "name": "7334L2622F01LF",
+    "pins": {
+        "14678aad-0d62-42ae-a210-1a9e7cd587d3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C8",
+            "swap_group": 0
+        },
+        "4208db67-1f45-4a2c-ae53-01b467544d87": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C4",
+            "swap_group": 0
+        },
+        "6d7f0eeb-8a5f-4bb0-8794-bca0c50c2e7d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "S2",
+            "swap_group": 0
+        },
+        "b1feace7-eb3d-4b7e-8d4e-5c689a7d05ce": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C7",
+            "swap_group": 0
+        },
+        "b855ce6f-a1bd-4db6-9e34-c07b415f06c8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C6",
+            "swap_group": 0
+        },
+        "c169f425-08a3-4b71-952d-0db7abc543e9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C3",
+            "swap_group": 0
+        },
+        "c88a72e2-17ce-48e6-b6a8-c283b19c0587": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C1",
+            "swap_group": 0
+        },
+        "d33ec747-9b53-4bfb-97f0-804a1fb56d73": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C2",
+            "swap_group": 0
+        },
+        "ec047fc7-2877-4bcf-bcd0-1d7130f74e67": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C5",
+            "swap_group": 0
+        },
+        "f12927da-588e-414f-aebf-865d5425f2fd": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "S1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "bbb11818-77c1-4ec3-9dc3-265f87151783"
+}

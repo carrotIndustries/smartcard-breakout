@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "IEC 7816"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "IEC7861 pads"
+    ],
+    "entity": "771a429f-983f-4758-b6d4-80e107ae9f8e",
+    "flags": {
+        "base_part": "clear",
+        "exclude_bom": "set",
+        "exclude_pnp": "set"
+    },
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "80714471-8551-4e1b-bb9a-f7ce8b875612",
+    "pad_map": {
+        "148d28b4-b831-4b5e-9bb5-a527dad0a0fb": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "fa73ec1a-10bc-4280-aa96-1b222e566826"
+        },
+        "32d3fce3-8604-4cd9-b42f-93f4552c581d": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "e137d258-e055-4644-b9a5-fad874553ddf"
+        },
+        "55340aa9-a138-4c86-8d8c-a44af9fb1986": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "394fe994-72b0-4e01-9a0b-c463902d55e8"
+        },
+        "671f51ad-53ba-48d9-b32b-b9424fd16265": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "1a7a9b72-a0d1-4ee1-91f9-45265c2b41bb"
+        },
+        "7cd334c8-2a16-4cd1-9681-b5345d3c6e84": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "01ff6735-94f0-415a-9ce6-55b0515c1cd1"
+        },
+        "87f24e0d-f124-4240-9dc6-350526fc5a50": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "e95ff9ae-5dce-4a5d-bc8a-158c688b9a0e"
+        },
+        "afc9f1a4-95b2-46cc-8cb9-83c0160d6e95": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "65a73301-97c0-40b6-8138-4fcd12815dc0"
+        },
+        "c88e5575-d1af-45c6-ad63-01880445d4be": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "3256695a-0b7e-4ed5-a6e6-4f9afb354f54"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "1eb0716d-d5dc-45f5-905c-c5db55acec9e",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}
